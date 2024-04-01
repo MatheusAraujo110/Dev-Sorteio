@@ -9,7 +9,7 @@ Apresento a vocês mais um projeto realizado: Dev Sorteio.</p>
 <br>
 <h2>Neste projeto, apliquei:</h2>
 <br>
-<p>- Buscar elementos dentro do documento HTML.</p>
+<p>- Buscar elementos dentro do documento  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo"/>.</p>
 <p>- Fazer sorteio com número menor precisa ser maior que o valor máximo.</p>
 <p>- Adicionar eventos como o IF e o ELSE.</p>
 <p>- Criar funções e chamá-las.</p>
